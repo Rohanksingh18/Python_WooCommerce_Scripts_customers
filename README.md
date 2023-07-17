@@ -51,7 +51,5 @@ Before running the script, make sure you have the following:
 
 ## License
 
-This script is licensed under the [MIT License](LICENSE).
-```
 
 Feel free to copy and paste the above content into your README.md file. You can further customize it as per your requirements.
